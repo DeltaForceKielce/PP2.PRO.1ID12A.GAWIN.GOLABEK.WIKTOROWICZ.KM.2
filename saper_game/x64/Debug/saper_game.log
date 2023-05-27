@@ -1,0 +1,19 @@
+﻿  saper_game.c
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(76,61): warning C4047: "funkcja": "int (*)[8]" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(76,53): warning C4024: "policz_miny": różne typy dla formalnego i rzeczywistego parametru 4
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(168,16): warning C4101: "borderColor": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(196,18): warning C4101: "color": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(493,25): warning C4048: różne indeksy dolne tablicy: „int (*)[8]” i „int (*)[10]”
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(513,45): warning C4048: różne indeksy dolne tablicy: „int (*)[8]” i „int (*)[10]”
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(522,45): warning C4048: różne indeksy dolne tablicy: „int (*)[8]” i „int (*)[10]”
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(500,22): warning C4101: "state": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(629,40): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int [8][8]"
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(629,32): warning C4024: "zaladowanie_planszy": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(632,22): warning C4048: różne indeksy dolne tablicy: „int (*)[10]” i „int [8][8]”
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(639,40): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int [8][8]"
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(639,32): warning C4024: "zaladowanie_planszy": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(642,22): warning C4048: różne indeksy dolne tablicy: „int (*)[10]” i „int [8][8]”
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(648,40): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int [8][8]"
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(648,32): warning C4024: "zaladowanie_planszy": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\Łukasz\Desktop\saper_game\saper_game.c(651,22): warning C4048: różne indeksy dolne tablicy: „int (*)[10]” i „int [8][8]”
+  saper_game.vcxproj -> C:\Users\Łukasz\Desktop\saper_game\x64\Debug\saper_game.exe
